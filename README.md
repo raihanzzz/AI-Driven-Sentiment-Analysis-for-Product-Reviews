@@ -64,11 +64,11 @@ The primary goal is to address the **cross-domain sentiment classification** cha
 
 ## 👥 Contributors
 
-- **Arhamuddin** – Data preprocessing, traditional ML modeling
-- **Md Raihan** – Deep learning modeling, literature review, results analysis
-- **Md Adnan Nasim** – BERT integration, system design
-- **Tabish Iqbal** – Report formatting, code testing, research on future scope
+- **Arhamuddin** – Data preprocessing, feature extraction using TF-IDF, and implementation of traditional ML models such as Naive Bayes and SVM  
+- **Md Raihan** – Deep learning modeling, literature review, results analysis  
+- **Md Adnan Nasim** – BERT integration, system design  
+- **Tabish Iqbal** – Report formatting, code testing, research on future scope  
 
-## 📄 License
+## 📄 Note
 
-This project is for academic use only and is part of the **Skill X Project** under **JIS University**.
+This project was initially developed as part of the Skill X academic program at JIS University and was later presented at a symposium, where it was selected for publication in the Book of Abstracts.
